@@ -33,3 +33,7 @@ indicates passing (green) or failing (red) specs
   * <code>--junitreport</code>, export tests results as junitreport xml format'
 
 Checkout spec/SampleSpecs.js to see how to use it.
+
+Blog Posts
+----------
+http://brizzled.clapper.org/id/117/index.html
